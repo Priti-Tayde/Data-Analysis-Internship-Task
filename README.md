@@ -7,21 +7,14 @@ This repository contains all the tasks completed during the Data Analysis Intern
 
 🛠 Tools & Technologies Used
 
-Python
-
-Google Colab
-
-PySpark
-
-Pandas, NumPy
-
-Matplotlib
-
-Scikit-learn
-
-Power BI
-
-NLP (TextBlob)
+*Python
+*Google Colab
+*PySpark
+*Pandas, NumPy
+*Matplotlib
+*Scikit-learn
+*Power BI
+*NLP (TextBlob)
 
 
 
